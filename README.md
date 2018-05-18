@@ -1,2 +1,3 @@
 # Post-Secondary-Opportunities
-Post Secondary Opportunities. How different fields can have elements of computer science 
+
+Link to blog: https://rougayyahjalloh.github.io/Post-Secondary-Opportunities/Post-Opp.html
